@@ -1,0 +1,17 @@
+{
+  "name": "connection-monitoring",
+  "version": "1.0.0",
+  "description": "for Monitoring Device connect Network",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "mysql": "^2.18.1",
+    "ping": "^0.4.4",
+    "set-interval-async": "^3.0.3"
+  }
+}
